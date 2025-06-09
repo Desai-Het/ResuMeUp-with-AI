@@ -23,7 +23,11 @@ uv init .
 
 uv add streamlit google-generativeai PyPDF2 python-dotenv
 
-### 3. Running the app
+### 3. Add API key
+
+Add your API key in a .env file in the same folder of the project
+
+### 4. Running the app
 
 uv run streamlit run main.py
 
