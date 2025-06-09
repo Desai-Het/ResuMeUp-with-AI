@@ -28,9 +28,9 @@ uv add streamlit google-generativeai PyPDF2 python-dotenv
 uv run streamlit run main.py
 
 ## How to use
-- Upload your resume file (PDF or TXT)<br>
+- Upload your resume file (PDF or TXT)
 
-- Optionally enter your job goal role <br>
+- Optionally enter your job goal role
 
 - Click Analyze Resume to get AI-generated feedback
 
