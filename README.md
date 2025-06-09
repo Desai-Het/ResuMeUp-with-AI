@@ -30,9 +30,9 @@ uv run streamlit run main.py
 ## How to use
 - Upload your resume file (PDF or TXT)<br>
 
--Optionally enter your job goal role <br>
+- Optionally enter your job goal role <br>
 
--Click Analyze Resume to get AI-generated feedback
+- Click Analyze Resume to get AI-generated feedback
 
 
 
